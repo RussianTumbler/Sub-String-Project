@@ -22,8 +22,3 @@ def substring(string, word_bank)
 end
 
 puts substring("river", word_bank)
-
-
-
-  # #scan method searchs in string for instances of a given pattern
-
